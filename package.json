@@ -1,6 +1,6 @@
 {
-  "name": "grommet",
-  "version": "2.14.0",
+  "name": "@jaslong/grommet",
+  "version": "2.14.1",
   "main": "index.js",
   "module": "es6/index.js",
   "jsnext:main": "es6/index.js",
@@ -17,11 +17,11 @@
     "Shimrit Yacobi"
   ],
   "homepage": "http://grommet.io",
-  "bugs": "https://github.com/grommet/grommet/issues",
+  "bugs": "https://github.com/jaslong/grommet/issues",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/grommet/grommet.git"
+    "url": "https://github.com/jaslong/grommet.git"
   },
   "engine-strict": true,
   "engines": {
